@@ -41,7 +41,6 @@ headers {{HTTPHeader("Cache-Control")}}, {{HTTPHeader("Content-Location")}},
 - Browser behavior differs if this response erroneously includes a body on persistent
   connections See [204 No Content](/en-US/docs/Web/HTTP/Status/204) for more
   detail.
-
 ## See also
 
 - {{HTTPHeader("If-Modified-Since")}}
